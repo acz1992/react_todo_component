@@ -1,8 +1,17 @@
-# React + Vite
+# To Do Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Mission
 
-Currently, two official plugins are available:
+-   Revise React
+-   Create a component that I can integrate into later projects
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Concepts
+
+-   useState() and useEffect() hooks
+-   Modularization
+-   Passing props
+-   localStorage (.setItem/.getItem)
+
+## Further notes:
+
+-   While Component has been further modularized into three smaller components, I have kept the overall Todo component intact in EntireToDoApp.jsx, so that it can later be easily integrated into projects
